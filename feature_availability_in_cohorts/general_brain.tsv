@@ -1,0 +1,9 @@
+Feature	A4	ABVIB	ADNI	AIBL	ANM	ARWIBO	DOD-ADNI	EDSD	EMIF	EPAD	I-ADNI	JADNI	NACC	OASIS	PREVENT-AD	PharmaCog	ROSMAP	VASCULAR	VITA	WMH-AD
+Cortical Gray Matter Volume			1	1			1					1	1							
+Cortical White Matter Volume			1	1	1	1	1	1			1	1	1	1		1			1	1
+Brain Volume						1		1			1		1	1		1			1	
+White Matter HypoIntensities Volume			1		1	1	1	1			1	1		1		1			1	1
+Right Cortical Gray Matter Volume			1				1					1								
+Left Cortical White Matter Volume			1				1					1								
+Right Cortical White Matter Volume			1				1					1								
+Intracraneal Volume	1		1		1		1					1	1					1		

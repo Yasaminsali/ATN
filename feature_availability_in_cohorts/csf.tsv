@@ -1,0 +1,15 @@
+Feature	A4	ABVIB	ADNI	AIBL	ANM	ARWIBO	DOD-ADNI	EDSD	EMIF	EPAD	I-ADNI	JADNI	NACC	OASIS	PREVENT-AD	PharmaCog	ROSMAP	VASCULAR	VITA	WMH-AD
+pTau in CSF			1	1		1	1	1	1	1	0	1	1	0	1	1			0	0
+tTau in CSF			1	1		1	1	1	1	1	0	1	1	0	1	1			0	0
+A-beta 1-42 in CSF			1	1		1	1	1	1	1	0	1	1	0	1	1			0	0
+YKL-40 in CSF			1						1											
+SNAP-25 in CSF			1																	
+Neurofilament Light Protein  (NfL) in CSF			1						1											
+Visinin-Like Protein 1 (VILIP-1) in CSF			1																	
+Neurogranin (NRGN) in CSF			1						1											
+Alpha-synuclein in CSF			1																	
+Granulocyte Colony Stimulating Factor (G-GCSF) in CSF															1					
+Interleukin-15 (IL-15) in CSF															1					
+Interleukin-8 (IL-8) in CSF															1					
+Vascular Endothelial Growth Factor (VEGF) in CSF															1					
+Triggering Receptor Expressed on Myeloid Cells 2 (TREM2) in CSF			1																	

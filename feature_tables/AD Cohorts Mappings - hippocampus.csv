@@ -1,0 +1,4 @@
+Feature,Feature_old,CURIE,Definition,Synonyms,A4,ADNI,AIBL,ANM,EMIF,EPAD,JADNI,NACC,ROSMAP,DOD-ADNI,PREVENT-AD,ARWIBO,I-ADNI,EDSD,OASIS,PharmaCog,VITA,WMH-AD,VASCULAR,ABVIB
+Left Hippocampus Volume,Left Hippocampus Volume,FMA:72714,,,LeftHippocampus,ST29SV,,Left-Hippocampus,Lhippo_FS_adj,lhvl,(Left-Hippocampus)Volume_mm3,LHIPPO,,ST29SV,,Hippo_Vol_Sx(mm^3),Hippo_Vol_Sx(mm^3),Hippo_Vol_Sx(mm^3),Hippo_Vol_Sx(mm^3),Hippo_Vol_Sx(mm^3),Hippo_Vol_Sx(mm^3),Hippo_Vol_Sx(mm^3),Left_Hippocampus,
+Right Hippocampus Volume,Right Hippocampus Volume,FMA:72713,,,RightHippocampus,ST88SV,,Right-Hippocampus,Rhippo_FS_adj,lhvr,(Right-Hippocampus)Volume_mm3,RHIPPO,,ST88SV,,Hippo_Vol_Dx(mm^3),Hippo_Vol_Dx(mm^3),Hippo_Vol_Dx(mm^3),Hippo_Vol_Dx(mm^3),Hippo_Vol_Dx(mm^3),Hippo_Vol_Dx(mm^3),Hippo_Vol_Dx(mm^3),Right_Hippocampus,
+Hippocampus Volume,Hippocampus Volume,NCIT:C12444,,,,,Image.MR.Hippocampus.Vol.ICVCorr,,Hippo_sum_FS_adj,,,HIPPOVOL,,,,,,,,,,,,

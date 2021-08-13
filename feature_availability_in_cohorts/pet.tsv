@@ -1,0 +1,25 @@
+Feature	A4	ABVIB	ADNI	AIBL	ANM	ARWIBO	DOD-ADNI	EDSD	EMIF	EPAD	I-ADNI	JADNI	NACC	OASIS	PREVENT-AD	PharmaCog	ROSMAP	VASCULAR	VITA	WMH-AD
+AV PET	1		1	1			1		1				1							
+FDG PET			1									1	1							
+PiB PET			1	1								1								
+PET-hypoperfusion: frontal right						1														
+PET-hypoperfusion: frontal left						1														
+PET-hypoperfusion: temporal mes right						1														
+PET-hypoperfusion: temporal mes left						1														
+PET-hypoperfusion: temporal right						1		0			1			0		0			0	0
+PET-hypoperfusion: temporal left						1		0			1			0		0			0	0
+PET-hypoperfusion: parietal right						1														
+PET-hypoperfusion: parietal left						1														
+PET-hypoperfusion: occipital right						1														
+PET-hypoperfusion: occipital left						1														
+PET-hypoperfusion: posterior cingulate						1														
+PET-hypoperfusion: global						1														
+PET-hypoperfusion: cerebral right						1														
+PET-hypoperfusion: cerebral left						1														
+PET-hypoperfusion:other area						1														
+Glucose metabolism in right hippocampus (Pons_Normalized)						1		0			1			0		0			0	0
+Glucose_metabolism in left hippocampus (Pons_Normalized)						1		0			1			0		0			0	0
+PET-hypoperfusion: angular left						1		0			1			0		0			0	0
+PET-hypoperfusion: angular right						1		0			1			0		0			0	0
+PET-hypoperfusion: cingulum						1		0			1			0		0			0	0
+PET-hypoperfusion: vermis or pons						1		0			1			0		0			0	0

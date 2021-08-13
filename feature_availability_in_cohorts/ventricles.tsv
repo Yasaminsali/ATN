@@ -1,0 +1,7 @@
+Feature	A4	ABVIB	ADNI	AIBL	ANM	ARWIBO	DOD-ADNI	EDSD	EMIF	EPAD	I-ADNI	JADNI	NACC	OASIS	PREVENT-AD	PharmaCog	ROSMAP	VASCULAR	VITA	WMH-AD
+Left Inferior Lateral Ventricle Volume	1		1		1	1	1	1		1	1	1		1		1			1	1
+Left Lateral Ventricle Volume	1		1		1	1	1	1			1	1	1	1		1			1	1
+Right Inferior Lateral Ventricle Volume	1		1		1	1	1	1		1	1	1		1		1		1	1	1
+Right Lateral Ventricle Volume	1		1		1	1	1	1			1	1	1	1		1		1	1	1
+Third Ventricle Volume			1		1	1	1	1		1	1	1	1	1		1		1	1	1
+Fifth Ventricle Volume			1		1	1	1	1			1	1		1		1			1	1

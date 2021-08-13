@@ -1,0 +1,8 @@
+Feature	A4	ABVIB	ADNI	AIBL	ANM	ARWIBO	DOD-ADNI	EDSD	EMIF	EPAD	I-ADNI	JADNI	NACC	OASIS	PREVENT-AD	PharmaCog	ROSMAP	VASCULAR	VITA	WMH-AD
+Smoking	1		1	1			1		1	1		1	1					1		
+Amount of Smoking			1	1		1	1		1				1							
+Quit Smoking			1				1						1							
+Drug Abuse	1		1			1	1			1		1	1							
+Alcohol	1			1	1		1		1	1		1	1					1		
+Alcohol Abuse			1	1			1		1			1	1							
+Activity	1			1						1							1			

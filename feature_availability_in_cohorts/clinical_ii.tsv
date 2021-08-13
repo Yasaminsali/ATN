@@ -1,0 +1,15 @@
+Feature	A4	ABVIB	ADNI	AIBL	ANM	ARWIBO	DOD-ADNI	EDSD	EMIF	EPAD	I-ADNI	JADNI	NACC	OASIS	PREVENT-AD	PharmaCog	ROSMAP	VASCULAR	VITA	WMH-AD
+Verbal fluency tests (Phonemic) 				1		1		1			1		1			1				
+Verbal fluency tests (Semantic) Animal			1	1		1	1	1			1	1	1			1	1			1
+Verbal fluency tests (Semantic) Vegetable or Fruits			1									1	1				1			
+Advanced Instrumental Activities of Daily Living (AIADL)						0				1	0						1			
+The State-Trait Anxiety Inventory (STAI)										1										
+Clock Drawing Test			1	1		1	1	1				1				1				
+Logical Memory - Delayed Recall			1	1			1				0	1				1		1		
+Rey Auditory Verbal Learning Test - Delayed			1				1					1								
+Hachinski			1		1		1					1	1							
+American National Reading Test (ANART)			1				1					1					1			
+Trail Making Test (TMT) A			1			1	1	1			1	1	1			1		1		
+Trail Making Test (TMT) B			1			1	1	1			1	1	1			1		1		
+Digit Span Test (Forward)			1	1		1						1	1			1	1			
+Digit Span Test (Backward)			1	1		1						1	1			1	1			

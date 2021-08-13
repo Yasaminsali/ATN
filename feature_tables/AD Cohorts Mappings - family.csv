@@ -1,0 +1,10 @@
+Feature,CURIE,Definition,Synonyms,A4,ADNI,AIBL,ANM,EMIF,EPAD,JADNI,NACC,ROSMAP,DOD-ADNI,PREVENT-AD,ARWIBO,I-ADNI,EDSD,OASIS,PharmaCog,VITA,WMH-AD,VASCULAR,ABVIB,Rank
+Mother Dementia,-,,,MOTHER,MOTHDEM,,Mother_Dementia,,family_dementia_history,FHQMOM,NACCMOM,,FHQMOM,,,,,,,,,,,1
+Father Dementia,-,,,FATHER,FATHDEM,,Father_Dementia,,family_dementia_history,FHQDAD,NACCDAD,,FHQDAD,,,,,,,,,,,1
+Mother AD,-,,,MOTHDIAG,MOTHAD,Medical History.Mother Reportedly AD,,,,FHQMOMAD,,,FHQMOMAD,mother_dx_ad_dementia,Mother_Has_Alzheimer's_Disease,Mother_Has_Alzheimer's_Disease,Mother_Has_Alzheimer's_Disease,Mother_Has_Alzheimer's_Disease,Mother_Has_Alzheimer's_Disease,Mother_Has_Alzheimer's_Disease,Mother_Has_Alzheimer's_Disease,,,1
+Father AD,-,,,FATHDIAG,FATHAD,Medical History.Father Reportedly AD,,,,FHQDADAD,,,FHQDADAD,father_dx_ad_dementia,Father_Has_Alzheimer's_Disease,Father_Has_Alzheimer's_Disease,Father_Has_Alzheimer's_Disease,Father_Has_Alzheimer's_Disease,Father_Has_Alzheimer's_Disease,Father_Has_Alzheimer's_Disease,Father_Has_Alzheimer's_Disease,,,1
+Relatives with Dementia,-,,,,,,,,,,NACCFAM,,,,Relatives_with_dementia,,,,,,,,,1
+Sibling Dementia,-,,,,FHQSIB,,Dementia_Sib1,,family_dementia_history,FHQSIB,,,FHQSIB,,,,,,,,,,,1
+Sibling AD,-,,,,FHQSIBAD,,,,,FHQSIBAD,,,FHQSIBAD,sibling_dx_ad_dementia,,,,,,,,,,1
+Mother Age Onset,-,,,MOTHAGE,MOTHSXAGE,,,,age_at_diagnosis,,,,,mother_onset_age,,,,,,,,,,
+Father Age Onset,-,,,FATHAGE,FATHSXAGE,,,,age_at_diagnosis,,,,,father_onset_age,,,,,,,,,,

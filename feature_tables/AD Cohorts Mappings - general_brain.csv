@@ -1,0 +1,9 @@
+Feature,Feature_old,CURIE,Definition,Synonyms,A4,ADNI,AIBL,ANM,EMIF,EPAD,JADNI,NACC,ROSMAP,DOD-ADNI,PREVENT-AD,ARWIBO,I-ADNI,EDSD,OASIS,PharmaCog,VITA,WMH-AD,VASCULAR,ABVIB
+Cortical Gray Matter Volume,Cortical Gray Matter Volume,UBERON:0002020,,,,ST149SV,Image.MR.CorticalGM.Vol.ICVCorr,,,,CortexVol,GRAYVOL,,ST149SV,,,,,,,,,,
+Cortical White Matter Volume,Cortical White Matter Volume,EFO:0008320,,,,ST152SV,Image.MR.CorticalWM.Vol.ICVCorr,CorticalWhiteMatterVol,,,CorticalWhiteMatterVol,WHITEVOL,,ST152SV,,CorticalWhiteMatterVol,CorticalWhiteMatterVol,CorticalWhiteMatterVol,CorticalWhiteMatterVol,CorticalWhiteMatterVol,CorticalWhiteMatterVol,CorticalWhiteMatterVol,,
+Brain Volume,Brain Volume,NCIT:C12439,,,,,,,,,,NACCBRNV,,,,Whole_Brain_Volume(mm^3),Whole_Brain_Volume(mm^3),Whole_Brain_Volume(mm^3),Whole_Brain_Volume(mm^3),Whole_Brain_Volume(mm^3),Whole_Brain_Volume(mm^3),,,
+White Matter HypoIntensities Volume,White Matter HypoIntensities Volume,HP:0007103,,,,ST128SV,,WM-hypointensities,,,(WM-hypointensities)Volume_mm3,,,ST128SV,,WM-hypointensities,WM-hypointensities,WM-hypointensities,WM-hypointensities,WM-hypointensities,WM-hypointensities,WM-hypointensities,,
+Right Cortical Gray Matter Volume,Right_Cortical_Gray_Matter Volume,-,,,,ST148SV,,,,,rhCortexVol,,,ST148SV,,,,,,,,,,
+Left Cortical White Matter Volume,Left_Cortical_White_Matter_Volume,FMA:260794,,,,ST150SV,,,,,lhCorticalWhiteMatterVol,,,ST150SV,,,,,,,,,,
+Right Cortical White Matter Volume,Right_Cortical_White_Matter_Volume,FMA:260791,,,,ST151SV,,,,,rhCorticalWhiteMatterVol,,,ST151SV,,,,,,,,,,
+Intracraneal Volume,Intracraneal Volume,EFO:0004886,,,IntraCranialVolume,ST10CV,,EstimatedTotalIntraCranialVol,,,ICV,NACCICV,,ST10CV,,,,,,,,,EstimatedTotalIntraCranialVol,

@@ -1,0 +1,1011 @@
+Feature	A4	ABVIB	ADNI	AIBL	ANM	ARWIBO	DOD-ADNI	EDSD	EMIF	EPAD	I-ADNI	JADNI	NACC	OASIS	PREVENT-AD	PharmaCog	ROSMAP	VASCULAR	VITA	WMH-AD
+Left Entorhinal Gray Matter Volume	1		1				1					1	1							
+Right Entorhinal Gray Matter Volume	1		1				1					1	1							
+Left Fusiform Gray Matter Volume	1		1				1			1		1	1							
+Right Fusiform Gray Matter Volume	1		1				1					1	1							
+Left Middle Temporal Gray Matter Volume	1		1			1	1	1		1	1	1	1	1		1			1	1
+Right Middle Temporal Gray Matter Volume	1		1			1	1	1		1	1	1	1	1		1			1	1
+Left Cerebellum Gray Matter Volume	1		1		1	1	1	1		1	1	1		1		1		1	1	1
+Left Cerebellum White Matter Volume	1		1		1	1	1	1		1	1	1		1		1		1	1	1
+Left Caudate Volume	1		1		1	1	1	1		1	1	1		1		1		1	1	1
+Left Cortical Gray Matter Volume			1				1					1								
+Right Pericalcarine Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Right Precentral Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Right Rostral Middle Frontal Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Right Superior Parietal Gray Matter Volume	1		1			1	1	1		1	1	1	1	1		1			1	1
+Right Supramarginal Gray Matter Volume			1			1	1	1		1	1	1	1	1		1			1	1
+Right Insula Gray Matter Volume			1				1					1	1							
+Left Cuneus Volume Gray Matter			1				1			1		1								
+Left Inferior Temporal Gray Matter Volume	1		1				1					1	1							
+Left Medial Orbitofrontal Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Left Pericalcarine Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Left Precentral Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Left Rostral Middle Frontal Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Left Supramarginal Gray Matter Volume			1			1	1	1		1	1	1	1	1		1			1	1
+Right Caudal Middle Frontal Grey Matter Volume			1				1					1								
+Right Choroid Plexus Volume			1		1	1	1	1			1	1		1		1		1	1	1
+Right Frontal Pole Grey Matter Volume			1			1	1	1		1	1	1		1		1			1	1
+Right Inferior Temporal Gray Matter Volume	1		1				1					1	1							
+Right Medial Orbitofrontal Grey Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Left Parahippocampal Gray Matter Volume	1		1			1	1	1		1	1	1		1		1			1	1
+Right Parahippocampal Gray Matter Volume	1		1			1	1	1		1	1	1		1		1			1	1
+Fourth Ventricle Volume			1		1	1	1	1		1	1	1		1		1		1	1	1
+Left Superior Parietal Gray Matter Volume	1		1			1	1	1		1	1	1	1	1		1			1	1
+Right Paracentral Grey Matter Volume			1				1					1	1							
+Right Postcentral Grey Matter Volume			1			1	1	1		1	1	1	1	1		1			1	1
+Right Superior Frontal Gray Matter Volume	1		1			1	1	1		1	1	1	1	1		1			1	1
+Right Superior Temporal Gray Matter Volume	1		1			1	1	1		1	1	1	1	1		1			1	1
+Left Insula Grey Matter Volume			1				1					1	1							
+Left Caudal Middle Frontal Gray Matter Volume			1			1	1	1			1	1		1		1			1	1
+Left Choroid Plexus Volume			1		1	1	1	1			1	1		1		1		1	1	1
+Left Inferior Parietal Gray Matter Volume	1		1				1					1	1							
+Left Lateral Occipital Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Left Lingual Grey Gray Matter Volume			1			1	1	1		1	1	1	1	1		1			1	1
+Left Paracentral Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Left Postcentral Gray Matter Volume			1			1	1	1		1	1	1	1	1		1			1	1
+Left Superior Frontal Gray Matter Volume	1		1			1	1	1		1	1	1	1	1		1			1	1
+Left Superior Temporal Gray Matter Volume	1		1				1					1	1							
+Right Cuneus Gray Matter Volume										1		1								
+Right Inferior Parietal Gray Matter Volume	1		1				1					1	1							
+Right Lateral Occipital Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Right Lingual Grey Matter Volume			1			1	1	1		1	1	1	1	1		1			1	1
+Left Pars Opercularis Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Right Pars Opercularis Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Left Pars Orbitalis Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Right Pars Orbitalis Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Left Pars Triangularis Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Right Pars Triangularis Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Left Posterior Cingulate Gray Matter Volume			1			1	1	1		1	1	1	1	1		1			1	1
+Right Posterior Cingulate Gray Matter Volume			1			1	1	1		1	1	1	1	1		1			1	1
+Left Rostral Anterior Cingulate Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Right Rostral Anterior Cingulate Gray Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Brain Stem Grey Matter Volume	1		1		1	1	1	1			1	1		1		1		1	1	1
+Cerebrospinal Fluid Volume			1		1	1	1	1		1	1	1	1	1		1		1	1	1
+Left-vessel From Qdec			1		1	1	1	1			1	1		1		1		1	1	1
+Left Caudal Anterior Cingulate Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Caudal Anterior Cingulate Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Caudal Middle Frontal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Caudal Middle Frontal Mean Frontal Thickness					1	1	1	1			1	1	1	1		1			1	1
+Left Cuneus Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Cuneus Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Entorightinal Mean Cortical			1		1	1	1	1			1	1	1	1		1			1	1
+Right Entorightinal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Fusiform Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Fusiform Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Inferiorparietal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Inferiorparietal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Inferiortemporal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Inferiortemporal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Insula Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Insula Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Isthmus Cingulate Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Isthmus Cingulate Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Lateraloccipital Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Lateraloccipital Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Lateralorbitofrontal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Lateralorbitofrontal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Lingual Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Lingual Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Medial Orbitofrontal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Medial Orbitofrontal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Middle Temporal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Middle Temporal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Paracentral Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Paracentral Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Parahippocampal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Parahippocampal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Pars Opercularis Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Pars Opercularis Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Parsorbitalis Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Parsorbitalis Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Pars Triangularis Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Pars Triangularis Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Pericalcarine Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Pericalcarine Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Postcentral Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Postcentral Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Posterior Cingulate Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Posterior Cingulate Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Precentral Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Precentral Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Precuneus Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Precuneus Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Rostral Anterior Cingulate Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Rostral Anterior Cingulate Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Rostral Middle Frontal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Rostral Middle Frontal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Superior Frontal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Superiorfrontal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Superiorparietal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Superiorparietal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Superior Temporal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Superior Temporal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Supramarginal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Supramarginal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Transverse Temporal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Right Transverse Temporal Mean Cortical Thickness			1		1	1	1	1			1	1	1	1		1			1	1
+Left Precuneus Grey Matter Volume			1			1	1	1		1	1	1	1	1		1			1	1
+Right Precuneus Grey Matter Volume			1			1	1	1		1	1	1	1	1		1			1	1
+Left Transverse Temporal Grey Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Right Transverse Temporal Grey Matter Volume			1			1	1	1			1	1	1	1		1			1	1
+Right Parahippocampal Area			1			1	1	1			1	1		1		1			1	1
+Right Paracentral Area			1			1	1	1			1	1		1		1			1	1
+Right Parsopercularis Area			1			1	1	1			1	1		1		1			1	1
+Right Parsorbitalis Area			1			1	1	1			1	1		1		1			1	1
+Right Parstriangularis Area			1			1	1	1			1	1		1		1			1	1
+Right Pericalcarine Area			1			1	1	1			1	1		1		1			1	1
+Right Postcentral Area			1			1	1	1			1	1		1		1			1	1
+Right Posterior Cingulate Area			1			1	1	1			1	1		1		1			1	1
+Right Precentral Area			1			1	1	1			1	1		1		1			1	1
+Right Precuneus Area			1			1	1	1			1	1		1		1			1	1
+Right Rostralanteriorcingulate Area			1			1	1	1			1	1		1		1			1	1
+Right Rostralmiddlefrontal Area			1			1	1	1			1	1		1		1			1	1
+Right Superior Frontal Area			1			1	1	1			1	1		1		1			1	1
+Right Superior Parietal Area			1			1	1	1			1	1		1		1			1	1
+Right Superior Temporal Area			1			1	1	1			1	1		1		1			1	1
+Right Supramarginal Area			1			1	1	1			1	1		1		1			1	1
+Right Temporal Pole Area			1			1	1	1			1	1		1		1			1	1
+Right Temporal Pole Thickness			1		1	1	1	1			1	1		1		1			1	1
+Right Transverse Temporal Area			1			1	1	1			1	1		1		1			1	1
+Right-vessel From Qdec			1		1	1	1	1			1	1		1		1		1	1	1
+Right White Matter Hypointensities Volume					1	1		1			1	1		1		1			1	1
+Left Insula Area			1			1	1	1			1	1		1		1			1	1
+Right Insula Area			1			1	1	1			1	1		1		1			1	1
+Left Banks Of The Superior Temoral Sulcus Cortical Mean Volume			1			1	1	1			1	1		1		1			1	1
+Left Banks Of The Superior Temoral Sulcus Cortical Thickness			1		1	1	1	1			1	1		1		1			1	1
+Left Banks Of The Superior Temoral Sulcus Cortical Area			1			1	1	1			1	1		1		1			1	1
+Left Caudal Anterior Cingulate Area			1			1	1	1			1	1		1		1			1	1
+Left Caudal Anterior Cingulate Cortical Mean			1			1	1	1			1	1		1		1			1	1
+Left Caudal Middle Frontal Area			1			1	1	1			1	1		1		1			1	1
+Left Cuneus Area			1			1	1	1			1	1		1		1			1	1
+Left Entorhinal Area			1			1	1	1			1	1		1		1			1	1
+Left Frontal Pole Area			1			1	1	1			1	1		1		1			1	1
+Left Frontal Pole Thickness			1		1	1	1	1			1	1		1		1			1	1
+Left Fusiform Area			1			1	1	1			1	1		1		1			1	1
+Left Inferior Parietal Area			1			1	1	1			1	1		1		1			1	1
+Left Lateraloccipital Area			1			1	1	1			1	1		1		1			1	1
+Left Lateral Orbitofrontal Cortical Mean			1			1	1	1			1	1		1		1			1	1
+Left Lateral Orbitofrontal Area			1			1	1	1			1	1		1		1			1	1
+Left Lingual Area			1			1	1	1			1	1		1		1			1	1
+Left Medialorbitofrontal Area			1			1	1	1			1	1		1		1			1	1
+Left Middletemporal Area			1			1	1	1			1	1		1		1			1	1
+Left Paracentral Area			1			1	1	1			1	1		1		1			1	1
+Left Parahippocampal Area			1			1	1	1			1	1		1		1			1	1
+Left Par Sopercularis Area			1			1	1	1			1	1		1		1			1	1
+Left Pars Orbitalis Area			1			1	1	1			1	1		1		1			1	1
+Left Pars Triangularis Area			1			1	1	1			1	1		1		1			1	1
+Left Pericalcarine Area			1			1	1	1			1	1		1		1			1	1
+Left Postcentral Area			1			1	1	1			1	1		1		1			1	1
+Left Posteriorcingulate Area			1			1	1	1			1	1		1		1			1	1
+Left Precentral Area			1			1	1	1			1	1		1		1			1	1
+Left Precuneus Area			1			1	1	1			1	1		1		1			1	1
+Left Rostral Anterior Cingulate Area			1			1	1	1			1	1		1		1			1	1
+Left Rostral Middle Frontal Area			1			1	1	1			1	1		1		1			1	1
+Left Superiorfrontal Area			1			1	1	1			1	1		1		1			1	1
+Left Superiorparietal Area			1			1	1	1			1	1		1		1			1	1
+Left Superiortemporal Area			1			1	1	1			1	1		1		1			1	1
+Left Supramarginal Area			1			1	1	1			1	1		1		1			1	1
+Left Temporal Pole Area			1			1	1	1			1	1		1		1			1	1
+Left Temporal Pole Thickness			1		1	1	1	1			1	1		1		1			1	1
+Left Transverse Temporal Area			1			1	1	1			1	1		1		1			1	1
+Non-White-matter-hypointensities			1		1	1	1	1			1	1		1		1			1	1
+Optic Chiasm Volume			1		1	1	1	1			1	1		1		1			1	1
+Right Banks Of The Superior Temoral Sulcus Volume			1			1	1	1			1	1		1		1			1	1
+Right Banks Of The Superior Temoral Sulcus Thickness			1		1	1	1	1			1	1		1		1			1	1
+Right Banks Of The Superior Temoral Sulcus Area			1			1	1	1			1	1		1		1			1	1
+Right Caudal Anterior Cingulate Volume			1			1	1	1			1	1		1		1			1	1
+Right Caudal Anterior Cingulate Area			1			1	1	1			1	1		1		1			1	1
+Right Caudal Middle Frontal Area			1			1	1	1			1	1		1		1			1	1
+Right Cuneus Area			1			1	1	1			1	1		1		1			1	1
+Right Cuneus Volume			1			1	1	1			1	1		1		1			1	1
+Right Entorightinal Area			1			1	1	1			1	1		1		1			1	1
+Right Frontal Pole Thickness			1		1	1	1	1			1	1		1		1			1	1
+Right Frontalpole Area			1			1	1	1			1	1		1		1			1	1
+Right Fusiform Area			1			1	1	1			1	1		1		1			1	1
+Right Inferior Parietal Area			1			1	1	1			1	1		1		1			1	1
+Right Inferior Temporal Area			1			1	1	1			1	1		1		1			1	1
+Left Inferior Temporal Area			1			1	1	1			1	1		1		1			1	1
+Right Isthmuscingulate Volume			1			1	1	1			1	1		1		1			1	1
+Left Isthmus Cingulate Area			1			1	1	1			1	1		1		1			1	1
+Right Lateraloccipital Area			1			1	1	1			1	1		1		1			1	1
+Right Lateralorbitofrontal Area			1			1	1	1			1	1		1		1			1	1
+Right Lateralorbitofrontal Volume			1			1	1	1			1	1		1		1			1	1
+Right Lingual Area			1			1	1	1			1	1		1		1			1	1
+Right Medialorbitofrontal Area			1			1	1	1			1	1		1		1			1	1
+Right Middletemporal Area			1			1	1	1			1	1		1		1			1	1
+Left Sulcus Calcarine Volume						1		1		1	1	1		1		1			1	1
+Right Sulcus Calcarine Volume						1		1		1	1	1		1		1			1	1
+CC Posterior From Qdec Aseg					1	1		1			1	1		1		1			1	1
+CC Mid Posterior From Qdec Aseg					1	1		1			1	1		1		1			1	1
+CC Central From Qdec Aseg					1	1		1			1	1		1		1			1	1
+CC Mid Anterior From Qdec Aseg					1	1		1			1	1		1		1			1	1
+CC Anterior From Qdec Aseg					1	1		1			1	1		1		1			1	1
+BrainSegVol From Qdec Aseg					1	1		1			1			1		1			1	1
+BrainSegVolNotVent From Qdec Aseg					1	1		1			1			1		1			1	1
+BrainSegVolNotVentSurf From Qdec Aseg					1	1		1			1			1		1			1	1
+LeftCortexVol From Qdec Aseg					1	1		1			1	1		1		1			1	1
+RightCortexVol From Qdec Aseg					1	1		1			1	1		1		1			1	1
+CortexVol From Qdec Aseg					1	1		1			1	1		1		1			1	1
+SubCortGrayVol From Qdec Aseg			1		1	1	1	1			1	1		1		1			1	1
+TotalGrayVol From Qdec Aseg					1	1		1			1			1		1			1	1
+SupraTentorialVol From Qdec Aseg					1	1		1			1	1		1		1			1	1
+SupraTentorialVolNotVent From Qdec Aseg					1	1		1			1			1		1			1	1
+SupraTentorialVolNotVentVox From Qdec Aseg					1	1		1			1			1		1			1	1
+MaskVol From Qdec Aseg					1	1		1			1			1		1			1	1
+BrainSegVol-to-eTIV From Qdec Aseg					1	1		1			1			1		1			1	1
+MaskVol-to-eTIV From Qdec Aseg					1	1		1			1			1		1			1	1
+Left SurfaceHoles From Qdec Aseg					1	1		1			1			1		0			0	1
+Right SurfaceHoles From Qdec Aseg					1	1		1			1			1		0			0	1
+SurfaceHoles From Qdec Aseg					1	1		1			1			1		0			0	1
+Left Gyrus And Sulcus Frontomargin Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Occipital Inferior Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Subcentral Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Transv Frontopol Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Cingul-Ant Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Cingul-Mid-Ant Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Cingul-Mid-Post Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Cingul-Post-dorsal Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Cingul-Post-ventral Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Cuneus Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Inf-Opercular Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Inf-Orbital Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Inf-Triangul Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Middle Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Sup Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Ins Lg And Sulcus Cent Ins Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Insular Short Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Occipital Middle Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Occipital Sup Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Oc-temp Lat-fusifor Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Oc-temp Med-Lingual Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Oc-temp Med-Parahip Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Orbital Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Pariet Inf-Angular Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Pariet Inf-Supramar Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Parietal Sup Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Postcentral Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Precentral Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Precuneus Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Rectus Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Subcallosal Area From Qdec						1		1		1	1	1		1		1			1	1
+Left Gyrus Temp Sup-G T Transv Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-Lateral Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-Plan Polar Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-Plan Tempo Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temporal Inferior Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temporal Middle Area From Qdec						1		1			1	1		1		1			1	1
+Left Lat Fis-ant-Horizont Area From Qdec						1		1			1	1		1		1			1	1
+Left Lat Fis-ant-Vertical Area From Qdec						1		1			1	1		1		1			1	1
+Left Lat Fis-post Area From Qdec						1		1			1	1		1		1			1	1
+Left Pole Occipital Area From Qdec						1		1			1	1		1		1			1	1
+Left Pole Temporal Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Calcarine Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Central Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Cingul-Marginalis Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Circular Insula Anterior Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Circular Insula Inferior Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Circular Insula Sup Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Collat Transv Anterior Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Collat Transv Posterior Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Frontal Inferior Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Frontal Middle Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Frontal Sup Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Interm Prim-Jensen Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Intrapariet And P Trans Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc Middle And Lunatus Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc Sup And Transversal Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Occipital Anterior Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc-temp Lat Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc-temp Med And Lingual Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Orbital Lateral Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Orbital Med-olfact Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Orbital-H Shaped Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Parieto Occipital Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Pericallosal Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Postcentral Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Precentral-inf-part Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Precentral-sup-part Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Suborbital Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Subparietal Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Temporal Inferior Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Temporal Sup Area From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Temporal Transverse Area From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Frontomargin Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Occipital Inferior Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Paracentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Subcentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Transv Frontopol Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Cingul-Ant Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Cingul-Mid-Ant Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Cingul-Mid-Post Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Cingul-Post-dorsal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Cingul-Post-ventral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Cuneus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Inf-Opercular Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Frontal Inf-Orbital Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Frontal Inf-Triangul Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Frontal Middle Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Frontal Sup Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Ins Lg And Sulcus Cent Ins Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Insular Short Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Occipital Middle Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Occipital Sup Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Oc-temp Lat-fusifor Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Oc-temp Med-Lingual Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Oc-temp Med-Parahip Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Orbital Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Pariet Inf-Angular Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Pariet Inf-Supramar Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Parietal Sup Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Postcentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Precentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Precuneus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Rectus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Subcallosal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-G T Transv Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-Lateral Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Temp Sup-Plan Polar Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-Plan Tempo Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temporal Inferior Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus Temporal Middle Meancurv From Qdec						1		1			1			1		1			1	1
+Left Lat Fis-ant-Horizont Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Lat Fis-ant-Vertical Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Lat Fis-post Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Pole Occipital Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Pole Temporal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Calcarine Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Central Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Cingul-Marginalis Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Circular Insula Anterior Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Circular Insula Inferior Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Circular Insula Sup Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Collat Transv Anterior Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Collat Transv Posterior Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Frontal Inferior Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Frontal Middle Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Frontal Sup Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Interm Prim-Jensen Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Intrapariet And P Trans Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc Middle And Lunatus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc Sup And Transversal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Occipital Anterior Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Oc-temp Lat Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Oc-temp Med And Lingual Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Orbital Lateral Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Orbital Med-olfact Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Orbital-H Shaped Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Parieto Occipital Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Pericallosal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Postcentral Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Precentral-inf-part Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Precentral-sup-part Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Suborbital Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Subparietal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Temporal Inferior Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Temporal Sup Meancurv From Qdec						1		1			1			1		1			1	1
+Left Sulcus Temporal Transverse Meancurv From Qdec						1		1			1			1		1			1	1
+Left Gyrus And Sulcus Frontomargin Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Occipital Inferior Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Paracentral Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Subcentral Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Transv Frontopol Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Cingul-Ant Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Cingul-Mid-Ant Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Cingul-Mid-Post Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Cingul-Post-dorsal Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Cingul-Post-ventral Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Inf-Opercular Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Inf-Orbital Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Inf-Triangul Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Middle Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Sup Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Ins Lg And Sulcus Cent Ins Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Insular Short Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Occipital Middle Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Occipital Sup Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Oc-temp Lat-fusifor Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Oc-temp Med-Lingual Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Oc-temp Med-Parahip Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Orbital Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Pariet Inf-Angular Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Pariet Inf-Supramar Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Parietal Sup Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Postcentral Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Precentral Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Precuneus Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Rectus Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Subcallosal Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-G T Transv Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-Lateral Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-Plan Polar Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-Plan Tempo Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temporal Inferior Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temporal Middle Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Lat Fis-ant-Horizont Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Lat Fis-ant-Vertical Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Lat Fis-post Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Pole Occipital Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Pole Temporal Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Calcarine Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Central Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Cingul-Marginalis Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Circular Insula Anterior Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Circular Insula Inferior Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Circular Insula Sup Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Collat Transv Anterior Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Collat Transv Posterior Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Frontal Inferior Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Frontal Middle Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Frontal Sup Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Interm Prim-Jensen Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Intrapariet And P Trans Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc Middle And Lunatus Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc Sup And Transversal Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Occipital Anterior Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc-temp Lat Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc-temp Med And Lingual Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Orbital Lateral Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Orbital Med-olfact Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Orbital-H Shaped Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Parieto Occipital Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Pericallosal Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Postcentral Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Precentral-inf-part Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Precentral-sup-part Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Suborbital Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Subparietal Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Temporal Inferior Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Temporal Sup Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Temporal Transverse Thickness From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Frontomargin Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Occipital Inferior Volume From Qdec						1		1		1	1	1		1		1			1	1
+Left Gyrus And Sulcus Paracentral Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Subcentral Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Transv Frontopol Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Cingul-Ant Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Cingul-Mid-Ant Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus And Sulcus Cingul-Mid-Post Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Cingul-Post-dorsal Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Cingul-Post-ventral Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Inf-Opercular Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Inf-Orbital Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Inf-Triangul Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Frontal Middle Volume From Qdec						1		1		1	1	1		1		1			1	1
+Left Gyrus Frontal Sup Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Ins Lg And Sulcus Cent Ins Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Insular Short Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Occipital Middle Volume From Qdec						1		1		1	1	1		1		1			1	1
+Left Gyrus Occipital Sup Volume From Qdec						1		1		1	1	1		1		1			1	1
+Left Gyrus Oc-temp Lat-fusifor Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Oc-temp Med-Lingual Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Oc-temp Med-Parahip Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Orbital Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Pariet Inf-Angular Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Pariet Inf-Supramar Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Parietal Sup Volume From Qdec						1		1		1	1	1		1		1			1	1
+Left Gyrus Postcentral Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Precentral Volume From Qdec						1		1		1	1	1		1		1			1	1
+Left Gyrus Precuneus Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Rectus Volume From Qdec						1		1		1	1	1		1		1			1	1
+Left Gyrus Subcallosal Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-G T Transv Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-Lateral Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-Plan Polar Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temp Sup-Plan Tempo Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temporal Inferior Volume From Qdec						1		1			1	1		1		1			1	1
+Left Gyrus Temporal Middle Volume From Qdec						1		1			1	1		1		1			1	1
+Left Lat Fis-ant-Horizont Volume From Qdec						1		1			1	1		1		1			1	1
+Left Lat Fis-ant-Vertical Volume From Qdec						1		1			1	1		1		1			1	1
+Left Lat Fis-post Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Central Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Cingul-Marginalis Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Circular Insula Anterior Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Circular Insula Inferior Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Circular Insula Sup Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Collat Transv Anterior Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Collat Transv Posterior Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Frontal Inferior Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Frontal Middle Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Frontal Sup Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Interm Prim-Jensen Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Intrapariet And P Trans Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc Middle And Lunatus Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc Sup And Transversal Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Occipital Anterior Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc-temp Lat Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Oc-temp Med And Lingual Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Orbital Lateral Volume From Qdec						1		1		1	1	1		1		1			1	1
+Left Sulcus Orbital Med-olfact Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Orbital-H Shaped Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Parieto Occipital Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Pericallosal Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Postcentral Volume From Qdec						1		1			1			1		1			1	1
+Left Sulcus Precentral-inf-part Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Precentral-sup-part Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Suborbital Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Subparietal Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Temporal Inferior Volume From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus Temporal Sup Volume From Qdec						1		1		1	1	1		1		1			1	1
+Left Sulcus Temporal Transverse Volume From Qdec						1		1		1	1	1		1		1			1	1
+Left WhiteSurfArea Area From Qdec			1			1	1	1			1			1		1			1	1
+Left Banks Of The Superior Temoral Sulcus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Caudalanteriorcingulate Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Caudalmiddlefrontal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Cuneus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Entorightinal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Fusiform Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Inferiorparietal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Inferiortemporal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Isthmuscingulate Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Lateraloccipital Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Lateralorbitofrontal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Lingual Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Medialorbitofrontal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Middletemporal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Parahippocampal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Paracentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Parsopercularis Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Parsorbitalis Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Parstriangularis Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Pericalcarine Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Postcentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Posteriorcingulate Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Precentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Precuneus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Rostralanteriorcingulate Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Rostralmiddlefrontal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Superiorfrontal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Superiorparietal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Superiortemporal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Supramarginal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Frontalpole Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Temporalpole Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Transversetemporal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Insula Meancurv From Qdec						1		1			1	1		1		1			1	1
+Left Sulcus And Gyrus Paracentral Area						1		1			1	1		1		1			1	1
+Left MeanThickness Thickness From Qdec					1	1		1			1			1		1			1	1
+Left Cuneus Volume From Qdec aparc						1		1			1	1		1		1			1	1
+Left Entorightinal Volume From Qdec aparc						1		1		1	1	1		1		1			1	1
+Left Inferiorparietal Volume From Qdec aparc						1		1			1	1		1		1			1	1
+Left Inferiortemporal Volume From Qdec aparc						1		1		1	1	1		1		1			1	1
+Left Isthmuscingulate Volume From Qdec aparc						1		1			1	1		1		1			1	1
+Left Superiortemporal Volume From Qdec aparc						1		1			1	1		1		1			1	1
+Left Insula Volume From Qdec aparc						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Frontomargin Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Occipital Inferior Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Paracentral Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Subcentral Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Transv Frontopol Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Cingul-Ant Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Cingul-Mid-Ant Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Cingul-Mid-Post Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Cingul-Post-dorsal Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Cingul-Post-ventral Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Cuneus Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Inf-Opercular Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Inf-Orbital Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Inf-Triangul Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Middle Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Sup Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Ins Lg And Sulcus Cent Ins Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Insular Short Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Occipital Middle Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Occipital Sup Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Oc-temp Lat-fusifor Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Oc-temp Med-Lingual Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Oc-temp Med-Parahip Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Orbital Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Pariet Inf-Angular Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Pariet Inf-Supramar Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Parietal Sup Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Postcentral Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Precentral Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Precuneus Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Rectus Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Subcallosal Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-G T Transv Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-Lateral Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-Plan Polar Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-Plan Tempo Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temporal Inferior Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temporal Middle Area From Qdec						1		1			1	1		1		1			1	1
+Right Lat Fis-ant-Horizont Area From Qdec						1		1			1	1		1		1			1	1
+Right Lat Fis-ant-Vertical Area From Qdec						1		1			1	1		1		1			1	1
+Right Lat Fis-post Area From Qdec						1		1			1	1		1		1			1	1
+Right Pole Occipital Area From Qdec						1		1			1	1		1		1			1	1
+Right Pole Temporal Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Calcarine Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Central Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Cingul-Marginalis Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Circular Insula Anterior Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Circular Insula Inferior Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Circular Insula Sup Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Collat Transv Anterior Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Collat Transv Posterior Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Frontal Inferior Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Frontal Middle Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Frontal Sup Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Interm Prim-Jensen Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Intrapariet And P Trans Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc Middle And Lunatus Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc Sup And Transversal Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Occipital Anterior Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc-temp Lat Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc-temp Med And Lingual Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Orbital Lateral Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Orbital Med-olfact Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Orbital-H Shaped Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Parieto Occipital Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Pericallosal Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Postcentral Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Precentral-inf-part Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Precentral-sup-part Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Suborbital Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Subparietal Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Temporal Inferior Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Temporal Sup Area From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Temporal Transverse Area From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Frontomargin Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Occipital Inferior Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Paracentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Subcentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Transv Frontopol Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Cingul-Ant Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Cingul-Mid-Ant Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Cingul-Mid-Post Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Cingul-Post-dorsal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Cingul-Post-ventral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Cuneus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Inf-Opercular Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Frontal Inf-Orbital Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Frontal Inf-Triangul Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Frontal Middle Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Frontal Sup Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Ins Lg And Sulcus Cent Ins Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Insular Short Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Occipital Middle Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Occipital Sup Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Oc-temp Lat-fusifor Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Oc-temp Med-Lingual Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Oc-temp Med-Parahip Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Orbital Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Pariet Inf-Angular Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Pariet Inf-Supramar Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Parietal Sup Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Postcentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Precentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Precuneus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Rectus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Subcallosal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-G T Transv Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-Lateral Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Temp Sup-Plan Polar Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-Plan Tempo Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temporal Inferior Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus Temporal Middle Meancurv From Qdec						1		1			1			1		1			1	1
+Right Lat Fis-ant-Horizont Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Lat Fis-ant-Vertical Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Lat Fis-post Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Pole Occipital Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Pole Temporal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Calcarine Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Central Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Cingul-Marginalis Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Circular Insula Anterior Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Circular Insula Inferior Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Circular Insula Sup Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Collat Transv Anterior Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Collat Transv Posterior Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Frontal Inferior Meancurv From Qdec						1		1			1			1		1			1	1
+Right Sulcus Frontal Middle Meancurv From Qdec						1		1			1			1		1			1	1
+Right Sulcus Frontal Sup Meancurv From Qdec						1		1			1			1		1			1	1
+Right Sulcus Interm Prim-Jensen Meancurv From Qdec						1		1			1			1		1			1	1
+Right Sulcus Intrapariet And P Trans Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc Middle And Lunatus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc Sup And Transversal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Occipital Anterior Meancurv From Qdec						1		1			1			1		1			1	1
+Right Sulcus Oc-temp Lat Meancurv From Qdec						1		1			1			1		1			1	1
+Right Sulcus Oc-temp Med And Lingual Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Orbital Lateral Meancurv From Qdec						1		1			1			1		1			1	1
+Right Sulcus Orbital Med-olfact Meancurv From Qdec						1		1			1			1		1			1	1
+Right Sulcus Orbital-H Shaped Meancurv From Qdec						1		1			1			1		1			1	1
+Right Sulcus Parieto Occipital Meancurv From Qdec						1		1			1			1		1			1	1
+Right Sulcus Pericallosal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Postcentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Precentral-inf-part Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Precentral-sup-part Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Suborbital Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Subparietal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Temporal Inferior Meancurv From Qdec						1		1			1			1		1			1	1
+Right Sulcus Temporal Sup Meancurv From Qdec						1		1			1			1		1			1	1
+Right Sulcus Temporal Transverse Meancurv From Qdec						1		1			1			1		1			1	1
+Right Gyrus And Sulcus Frontomargin Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Occipital Inferior Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Paracentral Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Subcentral Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Transv Frontopol Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Cingul-Ant Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Cingul-Mid-Ant Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Cingul-Mid-Post Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Cingul-Post-dorsal Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Cingul-Post-ventral Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Cuneus Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Inf-Opercular Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Inf-Orbital Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Inf-Triangul Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Middle Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Sup Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Ins Lg And Sulcus Cent Ins Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Insular Short Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Occipital Middle Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Occipital Sup Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Oc-temp Lat-fusifor Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Oc-temp Med-Lingual Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Oc-temp Med-Parahip Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Orbital Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Pariet Inf-Angular Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Pariet Inf-Supramar Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Parietal Sup Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Postcentral Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Precentral Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Rectus Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Subcallosal Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-G T Transv Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-Lateral Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-Plan Polar Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-Plan Tempo Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temporal Inferior Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temporal Middle Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Lat Fis-ant-Horizont Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Lat Fis-ant-Vertical Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Lat Fis-post Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Pole Occipital Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Pole Temporal Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Calcarine Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Central Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Cingul-Marginalis Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Circular Insula Anterior Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Circular Insula Inferior Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Circular Insula Sup Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Collat Transv Anterior Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Collat Transv Posterior Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Frontal Inferior Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Frontal Middle Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Frontal Sup Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Interm Prim-Jensen Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Intrapariet And P Trans Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc Middle And Lunatus Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc Sup And Transversal Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Occipital Anterior Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc-temp Lat Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc-temp Med And Lingual Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Orbital Lateral Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Orbital Med-olfact Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Orbital-H Shaped Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Parieto Occipital Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Pericallosal Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Postcentral Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Precentral-inf-part Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Precentral-sup-part Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Suborbital Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Subparietal Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Temporal Inferior Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Temporal Sup Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Temporal Transverse Thickness From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Frontomargin Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Occipital Inferior Volume From Qdec						1		1		1	1	1		1		1			1	1
+Right Gyrus And Sulcus Paracentral Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Subcentral Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Transv Frontopol Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Cingul-Ant Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Cingul-Mid-Ant Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus And Sulcus Cingul-Mid-Post Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Cingul-Post-dorsal Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Cingul-Post-ventral Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Cuneus Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Inf-Opercular Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Inf-Orbital Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Inf-Triangul Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Frontal Middle Volume From Qdec						1		1		1	1	1		1		1			1	1
+Right Gyrus Frontal Sup Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Ins Lg And Sulcus Cent Ins Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Insular Short Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Occipital Middle Volume From Qdec						1		1		1	1	1		1		1			1	1
+Right Gyrus Occipital Sup Volume From Qdec						1		1		1	1	1		1		1			1	1
+Right Gyrus Oc-temp Lat-fusifor Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Oc-temp Med-Lingual Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Oc-temp Med-Parahip Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Orbital Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Pariet Inf-Angular Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Pariet Inf-Supramar Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Parietal Sup Volume From Qdec						1		1		1	1	1		1		1			1	1
+Right Gyrus Postcentral Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Precentral Volume From Qdec						1		1		1	1	1		1		1			1	1
+Right Gyrus Precuneus Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Rectus Volume From Qdec						1		1		1	1	1		1		1			1	1
+Right Gyrus Subcallosal Volume From Qdec						1		1		1	1	1		1		1			1	1
+Right Gyrus Temp Sup-G T Transv Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-Lateral Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-Plan Polar Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temp Sup-Plan Tempo Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temporal Inferior Volume From Qdec						1		1			1	1		1		1			1	1
+Right Gyrus Temporal Middle Volume From Qdec						1		1			1	1		1		1			1	1
+Right Lat Fis-ant-Horizont Volume From Qdec						1		1			1	1		1		1			1	1
+Right Lat Fis-ant-Vertical Volume From Qdec						1		1			1	1		1		1			1	1
+Right Lat Fis-post Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Central Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Cingul-Marginalis Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Circular Insula Anterior Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Circular Insula Inferior Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Circular Insula Sup Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Collat Transv Anterior Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Collat Transv Posterior Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Frontal Inferior Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Frontal Middle Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Frontal Sup Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Interm Prim-Jensen Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Intrapariet And P Trans Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc Middle And Lunatus Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc Sup And Transversal Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Occipital Anterior Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc-temp Lat Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Oc-temp Med And Lingual Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Orbital Lateral Volume From Qdec						1		1		1	1	1		1		1			1	1
+Right Sulcus Orbital Med-olfact Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Orbital-H Shaped Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Parieto Occipital Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Pericallosal Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Postcentral Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Precentral-inf-part Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Precentral-sup-part Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Suborbital Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Subparietal Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Temporal Inferior Volume From Qdec						1		1			1	1		1		1			1	1
+Right Sulcus Temporal Sup Volume From Qdec						1		1		1	1	1		1		1			1	1
+Right Sulcus Temporal Transverse Volume From Qdec						1		1		1	1	1		1		1			1	1
+Right Isthmuscingulate Area From Qdec						1	1	1			1	1		1		1			1	1
+Right WhiteSurfArea Area From Qdec			1			1	1	1			1			1		1			1	1
+Right Banks Of The Superior Temoral Sulcus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Caudalanteriorcingulate Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Caudalmiddlefrontal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Cuneus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Entorightinal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Fusiform Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Inferiorparietal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Inferiortemporal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Isthmuscingulate Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Lateraloccipital Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Lateralorbitofrontal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Lingual Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Medialorbitofrontal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Middletemporal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Parahippocampal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Paracentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Parsopercularis Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Parsorbitalis Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Parstriangularis Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Pericalcarine Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Postcentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Posteriorcingulate Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Precentral Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Precuneus Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Rostralanteriorcingulate Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Rostralmiddlefrontal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Superiorfrontal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Superiorparietal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Superiortemporal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Supramarginal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Frontalpole Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Temporalpole Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Transversetemporal Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right Insula Meancurv From Qdec						1		1			1	1		1		1			1	1
+Right MeanThickness Thickness From Qdec					1	1		1			1			1		1			1	1
+Right Caudalmiddlefrontal Volume From Qdec aparc						1		1			1	1		1		1			1	1
+Right Entorightinal Volume From Qdec aparc						1		1		1	1	1		1		1			1	1
+Right Fusiform Volume From Qdec aparc						1		1		1	1	1		1		1			1	1
+Right Inferiorparietal Volume From Qdec aparc						1		1			1	1		1		1			1	1
+Right Inferiortemporal Volume From Qdec aparc						1		1		1	1	1		1		1			1	1
+Right Lingual Volume From Qdec aparc												1								
+Right Paracentral Volume From Qdec aparc						1		1			1	1		1		1			1	1
+Right Insula Volume From Qdec aparc						1		1			1	1		1		1			1	1
+White-matter-left-banks Of The Superior Temoral Sulcus-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-caudalanteriorcingulate-from Qdec Wmparc						1		1			0			1		1			1	1
+White-matter-left-caudalmiddlefrontal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-cuneus-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-entorightinal-from Qdec Wmparc						1		1			0			1		1			1	1
+White-matter-left-fusiform-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-inferiorparietal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-inferiortemporal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-isthmuscingulate-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-lateraloccipital-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-lateralorbitofrontal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-lingual-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-medialorbitofrontal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-middletemporal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-parahippocampal-from Qdec Wmparc						1		1			0			1		1			1	1
+White-matter-left-paracentral-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-parsopercularis-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-parsorbitalis-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-parstriangularis-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-pericalcarine-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-postcentral-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-posteriorcingulate-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-precentral-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-precuneus-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-rostralanteriorcingulate-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-rostralmiddlefrontal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-superiorfrontal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-superiorparietal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-superiortemporal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-supramarginal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-frontalpole-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-temporalpole-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-transversetemporal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-left-insula-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-banks Of The Superior Temoral Sulcus-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-caudalanteriorcingulate-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-caudalmiddlefrontal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-cuneus-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-entorightinal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-fusiform-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-inferiorparietal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-inferiortemporal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-isthmuscingulate-from Qdec Wmparc						1		1			0			1		1			1	1
+White-matter-Right-lateraloccipital-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-lateralorbitofrontal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-lingual-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-medialorbitofrontal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-middletemporal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-parahippocampal-from Qdec Wmparc						1		1			0			1		1			1	1
+White-matter-Right-paracentral-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-parsopercularis-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-parsorbitalis-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-parstriangularis-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-pericalcarine-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-postcentral-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-posteriorcingulate-from Qdec Wmparc						1		1			0			1		1			1	1
+White-matter-Right-precentral-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-precuneus-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-rostralanteriorcingulate-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-rostralmiddlefrontal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-superiorfrontal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-superiorparietal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-superiortemporal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-supramarginal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-frontalpole-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-temporalpole-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-transversetemporal-from Qdec Wmparc						1		1			1			1		1			1	1
+White-matter-Right-insula-from Qdec Wmparc						1		1			1			1		1			1	1
+Left-UnsegmentedWhiteMatter-from Qdec Wmparc						1		1			1			1		1			1	1
+Right-UnsegmentedWhiteMatter-from Qdec Wmparc						1		1			1			1		1			1	1
+Left Hippocampal Tail Volume						0		0			0			0		1			0	0
+Left Subiculum Volume						0		0			0			0		1			0	0
+Left CA1 Volume						0		0			0			0		1			0	0
+Left Hippocampal-fissure Volume						0		0			0			0		1			0	0
+Left Presubiculum Volume						0		0			0			0		1			0	0
+Left Parasubiculum Volume						0		0			0			0		1			0	0
+Left Molecular Layer HP Volume						0		0			0			0		1			0	0
+Left GC-ML-DG Volume						0		0			0			0		1			0	0
+Left CA3 Volume						0		0			0			0		1			0	0
+Left CA4 Volume						0		0			0			0		1			0	0
+Left Fimbria Volume						0		0			0			0		1			0	0
+Left HATA Volume						0		0			0			0		1			0	0
+Left Whole Hippocampus Volume						0		0			0			0		1			0	0
+Right Whole Hippocampus Volume						0		0			0			0		1			0	0
+Right Hippocampal Tail Volume						0		0			0			0		1			0	0
+Right Subiculum Volume						0		0			0			0		1			0	0
+Right CA1 Volume						0		0			0			0		1			0	0
+Right Hippocampal-fissure Volume						0		0			0			0		1			0	0
+Right Presubiculum Volume						0		0			0			0		1			0	0
+Right Parasubiculum Volume						0		0			0			0		1			0	0
+Right Molecular Layer HP Volume						0		0			0			0		1			0	0
+Right GC-ML-DG Volume						0		0			0			0		1			0	0
+Right CA3 Volume						0		0			0			0		1			0	0
+Right CA4 Volume						0		0			0			0		1			0	0
+Right Fimbria Volume						0		0			0			0		1			0	0
+Right HATA Volume						0		0			0			0		1			0	0
+Right-non-white Matter Hypointensities Volume					1	1		1			1			1		1			1	1
+Left-non-white Matter Hypointensities Volume					1	1		1			1			1		1			1	1
+Left Cortical White Matter Volume From Qdec					1	1		1			1	1		1		1			1	1
+Right Cortical White Matter Volume From Qdec					1	1		1			1	1		1		1			1	1
+Left White Matter Hypointensities Volume					1	1		1			1			1		1			1	1

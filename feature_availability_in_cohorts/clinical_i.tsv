@@ -1,0 +1,21 @@
+Feature	A4	ABVIB	ADNI	AIBL	ANM	ARWIBO	DOD-ADNI	EDSD	EMIF	EPAD	I-ADNI	JADNI	NACC	OASIS	PREVENT-AD	PharmaCog	ROSMAP	VASCULAR	VITA	WMH-AD
+Diagnosis			1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Clinical Dementia Rating (CDR)	1		1	1	1	1	1		1	1	1	1	1	1	1	1		1	1	1
+Clinical Dementia Rating Scale Sum of Boxes (CDRSB)	1		1	1	1		1			1		1	1							
+Mini-Mental State Examination (MMSE)	1		1	1	1	1	1	1	1	1	1	1	1	1		1	1		1	1
+Montreal Cognitive Assessment (MoCA)			1		1		0						1		1			1		
+Geriatric Depression Scale (GDS)	1		1	1	1		1		1	1		1	1			1				
+Alzheimer's Disease Assessment Scale 11-item (ADAS11)			1		1		1					1				1				
+Alzheimer’s Disease Assessment Scale 13-item (ADAS13)			1				1					1				1				
+Functional Activities Questionnaire (FAQ)			1				1					1	0			1		1		
+Neuropsychiatric Inventory (NPI)			1		1	0	1													
+Neuropsychiatric Inventory–Questionnaire (NPI-Q)			1			0						1	0							
+Alzheimer's Disease Cooperative Study - Activities of Daily Living (ADCS_ADL)	0				1	0														
+Boston Naming Test (BNT)			1	1	1		1	1				1	1			1	1	1		
+Hospital Anxiety and Depression Scale (HADs) (Depression)				1																
+Hospital Anxiety and Depression Scale (HADs) (Anxiety)				1																
+Rey Complex Figure Test and Recognition Trial (RCFT)				1							1									
+Repeatable Battery for the Assessment of Neuropsychological Status (RBANS)										1					1					
+FLANKER Task										1										
+Pittsburgh Sleep Quality Index (PSQI)							0			1										
+Dot Counting (DCT)				1						1										

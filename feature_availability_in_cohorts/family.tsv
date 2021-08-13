@@ -1,0 +1,10 @@
+Feature	A4	ABVIB	ADNI	AIBL	ANM	ARWIBO	DOD-ADNI	EDSD	EMIF	EPAD	I-ADNI	JADNI	NACC	OASIS	PREVENT-AD	PharmaCog	ROSMAP	VASCULAR	VITA	WMH-AD
+Mother Dementia	1		1		1		1			1		1	1							
+Father Dementia	1		1		1		1			1		1	1							
+Mother AD	1		1	1		1	1	0			0	1		0	1	1			1	1
+Father AD	1		1	1		1	1	0			0	1		0	1	1			1	1
+Relatives with Dementia						1							1							
+Sibling Dementia			1		1		1			1		1								
+Sibling AD			1				0					1			1					
+Mother Age Onset	1		1							1					1					
+Father Age Onset	1		1							1					1					

@@ -1,0 +1,21 @@
+Feature	A4	ABVIB	ADNI	AIBL	ANM	ARWIBO	DOD-ADNI	EDSD	EMIF	EPAD	I-ADNI	JADNI	NACC	OASIS	PREVENT-AD	PharmaCog	ROSMAP	VASCULAR	VITA	WMH-AD
+Depression			1	1	1	1	1	1	1	1	1	1	1		1		1			
+Stroke			1	1		1	1		1	1		1	1				1			
+Parkinson’s Disease			1	1			1			1		1	1				1			
+Diabetes				1		1	1			1			1		1		1	1		
+Anxiety				1		1	1	1		1		1	1							
+Obesity									1	1										
+Bipolar			1	1			1			1		1	1							
+Schizophrenia			1	1			1	1		1		1	1							
+Cancer				1		1	1			1			1		1		1			
+Thyroid			1	1		1	1	1		1			1		1		1			
+Head Injury 				1		1	1			1		1	1				1			
+Vision			1	1		1	1			1		1	1							
+Chest Pain			1			1	1			1		1						1		
+Hearing						1	1			1			1		1					
+Vomiting			1				1					1								
+Sweating			1			1	1					1								
+Headache			1				1					1								
+Heart Condition	1		1			1	1			1		1	1				1	1		
+Heart Rate			1	1						1			1							
+Ears, Nose and Throat	1		1			1	1			1		1								
