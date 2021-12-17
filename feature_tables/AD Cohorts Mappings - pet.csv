@@ -1,7 +1,7 @@
 Feature,CURIE,Definition,Synonyms,A4,ADNI,AIBL,ANM,EMIF,EPAD,JADNI,NACC,ROSMAP,DOD-ADNI,PREVENT-AD,ARWIBO,I-ADNI,EDSD,OASIS,PharmaCog,VITA,WMH-AD,VASCULAR,ABVIB
-AV PET,-,,,suvr_cer,AV45,Image.PET.Amyloid.Florbetapir.Status,,AMYLOIDstatus,,,AMYLPET,,COMPOSITE_SUVR,,,,,,,,,,
-FDG PET,-,,,,FDG,,,,,PET score,FDGAD,,,,,,,,,,,,
-PiB PET,-,,,,PIB,Image.PET.Amyloid.PIB_NAV.Status,,,,MeanCortex,,,,,,,,,,,,,
+AV45 PET,-,Florbetapir F18 Positron Emission Tomography,,suvr_cer,AV45,Image.PET.Amyloid.Florbetapir.Status,,AMYLOIDstatus,,,AMYLPET,,COMPOSITE_SUVR,,,,,,,,,,
+FDG PET,-,Fluorodeoxyglucose Positron Emission Tomography,,,FDG,,,,,PET score,FDGAD,,,,,,,,,,,,
+PiB PET,-,Pittsburgh Compound-B Positron Emission Tomography,,,PIB,Image.PET.Amyloid.PIB_NAV.Status,,,,MeanCortex,,,,,,,,,,,,,
 PET-hypoperfusion: frontal right,-,,,,,,,,,,,,,,PETFRODX,,,,,,,,
 PET-hypoperfusion: frontal left,-,,,,,,,,,,,,,,PETFROSX,,,,,,,,
 PET-hypoperfusion: temporal mes right,-,,,,,,,,,,,,,,PETTMEDX,,,,,,,,
