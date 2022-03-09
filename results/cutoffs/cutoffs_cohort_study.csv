@@ -1,7 +1,12 @@
 "Cohort","A-beta 1-42 in CSF","pTau in CSF","tTau in CSF"
 "ADNI",980,21.8,245
 "AIBL",1054,213,21.3
+"ARWIBO",,,
 "DOD-ADNI",515,87.3,436
 "EDSD","Abeta1_42_abnormal","p_TAU_abnormal","total_TAU_abnormal"
-"EMIF",638.5,56.5,296.5
-"PharmaCog",550,61,190
+"EMIF","Local_AB42_Abnormal","Local_PTAU_Abnormal","Local_TTAU_Abnormal"
+"EPAD",,,
+"JADNI",333,45,93
+"NACC",,,
+"PREVENT-AD",,,
+"PharmaCog",550,61,375
