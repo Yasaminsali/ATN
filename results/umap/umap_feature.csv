@@ -1,0 +1,227 @@
+,0
+0,Brain Stem Grey Matter Volume
+1,Cerebrospinal Fluid Volume
+2,Fourth Ventricle Volume
+3,Left Accumbens Area Volume
+4,Left Amygdala Volume
+5,Left Banks Of The Superior Temoral Sulcus Cortical Area
+6,Left Banks Of The Superior Temoral Sulcus Cortical Mean Volume
+7,Left Banks Of The Superior Temoral Sulcus Cortical Thickness
+8,Left Caudal Anterior Cingulate Area
+9,Left Caudal Anterior Cingulate Cortical Mean
+10,Left Caudal Anterior Cingulate Mean Cortical Thickness
+11,Left Caudal Middle Frontal Area
+12,Left Caudal Middle Frontal Gray Matter Volume
+13,Left Caudal Middle Frontal Mean Cortical Thickness
+14,Left Caudate Volume
+15,Left Cerebellum Gray Matter Volume
+16,Left Cerebellum White Matter Volume
+17,Left Choroid Plexus Volume
+18,Left Cuneus Area
+19,Left Cuneus Mean Cortical Thickness
+20,Left Entorhinal Area
+21,Left Entorightinal Mean Cortical
+22,Left Frontal Pole Area
+23,Left Frontal Pole Gray Matter Volume
+24,Left Frontal Pole Thickness
+25,Left Fusiform Area
+26,Left Fusiform Mean Cortical Thickness
+27,Left Hippocampus Volume
+28,Left Inferior Lateral Ventricle Volume
+29,Left Inferior Parietal Area
+30,Left Inferior Temporal Area
+31,Left Inferiorparietal Mean Cortical Thickness
+32,Left Inferiortemporal Mean Cortical Thickness
+33,Left Insula Area
+34,Left Insula Mean Cortical Thickness
+35,Left Isthmus Cingulate Area
+36,Left Isthmus Cingulate Mean Cortical Thickness
+37,Left Lateral Occipital Gray Matter Volume
+38,Left Lateral Orbitofrontal Area
+39,Left Lateral Orbitofrontal Cortical Mean
+40,Left Lateral Ventricle Volume
+41,Left Lateraloccipital Area
+42,Left Lateraloccipital Mean Cortical Thickness
+43,Left Lateralorbitofrontal Mean Cortical Thickness
+44,Left Lingual Area
+45,Left Lingual Grey Gray Matter Volume
+46,Left Lingual Mean Cortical Thickness
+47,Left Medial Orbitofrontal Gray Matter Volume
+48,Left Medial Orbitofrontal Mean Cortical Thickness
+49,Left Medialorbitofrontal Area
+50,Left Middle Temporal Gray Matter Volume
+51,Left Middle Temporal Mean Cortical Thickness
+52,Left Middletemporal Area
+53,Left Pallidum Volume
+54,Left Par Sopercularis Area
+55,Left Paracentral Area
+56,Left Paracentral Gray Matter Volume
+57,Left Paracentral Mean Cortical Thickness
+58,Left Parahippocampal Area
+59,Left Parahippocampal Gray Matter Volume
+60,Left Parahippocampal Mean Cortical Thickness
+61,Left Pars Opercularis Gray Matter Volume
+62,Left Pars Opercularis Mean Cortical Thickness
+63,Left Pars Orbitalis Area
+64,Left Pars Orbitalis Gray Matter Volume
+65,Left Pars Triangularis Area
+66,Left Pars Triangularis Gray Matter Volume
+67,Left Pars Triangularis Mean Cortical Thickness
+68,Left Parsorbitalis Mean Cortical Thickness
+69,Left Pericalcarine Area
+70,Left Pericalcarine Gray Matter Volume
+71,Left Pericalcarine Mean Cortical Thickness
+72,Left Postcentral Area
+73,Left Postcentral Gray Matter Volume
+74,Left Postcentral Mean Cortical Thickness
+75,Left Posterior Cingulate Gray Matter Volume
+76,Left Posterior Cingulate Mean Cortical Thickness
+77,Left Posteriorcingulate Area
+78,Left Precentral Area
+79,Left Precentral Gray Matter Volume
+80,Left Precentral Mean Cortical Thickness
+81,Left Precuneus Area
+82,Left Precuneus Grey Matter Volume
+83,Left Precuneus Mean Cortical Thickness
+84,Left Putamen Volume
+85,Left Rostral Anterior Cingulate Area
+86,Left Rostral Anterior Cingulate Gray Matter Volume
+87,Left Rostral Anterior Cingulate Mean Cortical Thickness
+88,Left Rostral Middle Frontal Area
+89,Left Rostral Middle Frontal Gray Matter Volume
+90,Left Rostral Middle Frontal Mean Cortical Thickness
+91,Left Superior Frontal Gray Matter Volume
+92,Left Superior Frontal Mean Cortical Thickness
+93,Left Superior Parietal Gray Matter Volume
+94,Left Superior Temporal Mean Cortical Thickness
+95,Left Superiorfrontal Area
+96,Left Superiorparietal Area
+97,Left Superiorparietal Mean Cortical Thickness
+98,Left Superiortemporal Area
+99,Left Supramarginal Area
+100,Left Supramarginal Gray Matter Volume
+101,Left Supramarginal Mean Cortical Thickness
+102,Left Temporal Pole Area
+103,Left Temporal Pole Thickness
+104,Left Thalamus Volume
+105,Left Transverse Temporal Area
+106,Left Transverse Temporal Grey Matter Volume
+107,Left Transverse Temporal Mean Cortical Thickness
+108,Left Ventral Diencephalon Volume
+109,Left-vessel From Qdec
+110,Non-White-matter-hypointensities
+111,Optic Chiasm Volume
+112,Right Accumbens Area Volume
+113,Right Amygdala Volume
+114,Right Banks Of The Superior Temoral Sulcus Area
+115,Right Banks Of The Superior Temoral Sulcus Thickness
+116,Right Banks Of The Superior Temoral Sulcus Volume
+117,Right Caudal Anterior Cingulate Area
+118,Right Caudal Anterior Cingulate Mean Cortical Thickness
+119,Right Caudal Anterior Cingulate Volume
+120,Right Caudal Middle Frontal Area
+121,Right Caudate Volume
+122,Right Cerebellum Gray Matter Volume
+123,Right Cerebellum White Matter Volume
+124,Right Choroid Plexus Volume
+125,Right Cuneus Area
+126,Right Cuneus Mean Cortical Thickness
+127,Right Cuneus Volume
+128,Right Entorightinal Area
+129,Right Entorightinal Mean Cortical Thickness
+130,Right Frontal Pole Grey Matter Volume
+131,Right Frontal Pole Thickness
+132,Right Frontalpole Area
+133,Right Fusiform Area
+134,Right Fusiform Mean Cortical Thickness
+135,Right Hippocampus Volume
+136,Right Inferior Lateral Ventricle Volume
+137,Right Inferior Parietal Area
+138,Right Inferior Temporal Area
+139,Right Inferiorparietal Mean Cortical Thickness
+140,Right Inferiortemporal Mean Cortical Thickness
+141,Right Insula Area
+142,Right Insula Thickness
+143,Right Isthmus Cingulate Mean Cortical Thickness
+144,Right Isthmuscingulate Volume
+145,Right Lateral Occipital Gray Matter Volume
+146,Right Lateral Ventricle Volume
+147,Right Lateraloccipital Area
+148,Right Lateraloccipital Mean Cortical Thickness
+149,Right Lateralorbitofrontal Area
+150,Right Lateralorbitofrontal Mean Cortical Thickness
+151,Right Lateralorbitofrontal Volume
+152,Right Lingual Area
+153,Right Lingual Grey Matter Volume
+154,Right Lingual Mean Cortical Thickness
+155,Right Medial Orbitofrontal Grey Matter Volume
+156,Right Medial Orbitofrontal Mean Cortical Thickness
+157,Right Medialorbitofrontal Area
+158,Right Middle Temporal Gray Matter Volume
+159,Right Middle Temporal Mean Cortical Thickness
+160,Right Middletemporal Area
+161,Right Pallidum Volume
+162,Right Paracentral Area
+163,Right Paracentral Mean Cortical Thickness
+164,Right Parahippocampal Area
+165,Right Parahippocampal Gray Matter Volume
+166,Right Parahippocampal Mean Cortical Thickness
+167,Right Pars Opercularis Gray Matter Volume
+168,Right Pars Opercularis Mean Cortical Thickness
+169,Right Pars Orbitalis Gray Matter Volume
+170,Right Pars Triangularis Gray Matter Volume
+171,Right Pars Triangularis Mean Cortical Thickness
+172,Right Parsopercularis Area
+173,Right Parsorbitalis Area
+174,Right Parsorbitalis Mean Cortical Thickness
+175,Right Parstriangularis Area
+176,Right Pericalcarine Area
+177,Right Pericalcarine Gray Matter Volume
+178,Right Pericalcarine Mean Cortical Thickness
+179,Right Postcentral Area
+180,Right Postcentral Grey Matter Volume
+181,Right Postcentral Mean Cortical Thickness
+182,Right Posterior Cingulate Area
+183,Right Posterior Cingulate Gray Matter Volume
+184,Right Posterior Cingulate Mean Cortical Thickness
+185,Right Precentral Area
+186,Right Precentral Gray Matter Volume
+187,Right Precentral Mean Cortical Thickness
+188,Right Precuneus Area
+189,Right Precuneus Grey Matter Volume
+190,Right Precuneus Mean Cortical Thickness
+191,Right Putamen Volume
+192,Right Rostral Anterior Cingulate Gray Matter Volume
+193,Right Rostral Anterior Cingulate Mean Cortical Thickness
+194,Right Rostral Middle Frontal Gray Matter Volume
+195,Right Rostral Middle Frontal Mean Cortical Thickness
+196,Right Rostralanteriorcingulate Area
+197,Right Rostralmiddlefrontal Area
+198,Right Superior Frontal Area
+199,Right Superior Frontal Gray Matter Volume
+200,Right Superior Parietal Area
+201,Right Superior Parietal Gray Matter Volume
+202,Right Superior Temporal Area
+203,Right Superior Temporal Gray Matter Volume
+204,Right Superior Temporal Mean Cortical Thickness
+205,Right Superiorfrontal Mean Cortical Thickness
+206,Right Superiorparietal Mean Cortical Thickness
+207,Right Supramarginal Area
+208,Right Supramarginal Gray Matter Volume
+209,Right Supramarginal Mean Cortical Thickness
+210,Right Temporal Pole Area
+211,Right Temporal Pole Gray Matter Volume
+212,Right Temporal Pole Thickness
+213,Right Thalamus Volume
+214,Right Transverse Temporal Area
+215,Right Transverse Temporal Grey Matter Volume
+216,Right Transverse Temporal Mean Cortical Thickness
+217,Right Ventral Diencephalon Volume
+218,Right-vessel From Qdec
+219,Third Ventricle Volume
+220,White Matter HypoIntensities Volume
+221,APOE4_0
+222,APOE4_1
+223,APOE4_2
+224,ATN
+225,Cohort
